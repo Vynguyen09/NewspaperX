@@ -7,5 +7,7 @@ Xây dựng cơ sở dữ liệu cho Trang báo điện tử X
 - Mô hình ERD 
 - Tài liệu cơ sỡ dữ liệu của hệ thống
 - Source codes
+- Tài liệu đặc tả
+- Kế hoạch kiểm thử
 
 Mô hình cơ sở dữ liệu được giám sát và kiểm tra bởi Funix.
