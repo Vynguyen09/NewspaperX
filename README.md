@@ -5,7 +5,6 @@ Xây dựng cơ sở dữ liệu cho Trang báo điện tử X
 - Trang báo VnExpress
 ### Tài liệu cần thực hiện:
 - Mô hình ERD 
-- Tài liệu đặc tả
 - Tài liệu cơ sỡ dữ liệu của hệ thống
 - Source codes
 
