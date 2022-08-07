@@ -1,5 +1,5 @@
 # NewspaperX
-Xây dựng cơ sở dữ liệu cho Trang báo điện tử X
+Xây dựng hệ thống Trang báo điện tử X
 ### Tài liệu đầu vào:
 - Yêu cầu từ người dùng
 - Trang báo VnExpress
